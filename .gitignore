@@ -1,0 +1,15 @@
+# Dataset — baixar via Kaggle API (ver notebook, célula "Carregando os dados")
+data/
+
+# Ambiente virtual
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# IDEs
+.idea/
+.vscode/
