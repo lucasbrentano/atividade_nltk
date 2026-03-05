@@ -9,6 +9,16 @@ NLTK (Natural Language Toolkit) em Python. O notebook demonstra três abordagens
 
 ## Configuração
 
+### Ambiente Virtual
+
+Crie e ative um ambiente virtual antes de instalar as dependências:
+
+```bash
+python -m venv .venv
+source .venv/bin/activate      # Linux/Mac
+.venv\Scripts\activate         # Windows
+```
+
 ### Dependências
 
 Instale as dependências listadas em `requirements.txt`:
